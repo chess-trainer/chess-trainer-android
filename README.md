@@ -1,1 +1,1 @@
-# chess-trainer-web
+# chess-trainer-android
